@@ -1,7 +1,7 @@
 # <b>  COMPARISON OF DISTINCT CNN BACKBONE ARCHITECTURES WITH DENSE HEADS, ATTENTION AND VISUAL TRANSFORMERS ON MEDICAL X-RAY IMAGE DATASET  </b>
 # AASD 4015 - Advance Mathematical Concepts for Deep Learning Group Project 2
 
-## Deploy website: https://sikyinsun.github.io/AASD-4015---COVID-19-Detection/
+## Deploy website: [Link](https://sakshamprakash01.github.io/Cnn-Backbones-Comparison/)
 
 <b>Members:</b> 
 1. Saksham Prakash (101410709) 
